@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+svg.theme-toggle__classic {
+  width: 2rem;
+  height: 2rem;
+}

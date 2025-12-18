@@ -1,0 +1,363 @@
+[
+  {
+    "year": 1958,
+    "constructor": "Vanwall",
+    "drivers": ["Stirling Moss", "Tony Brooks"]
+  },
+  {
+    "year": 1959,
+    "constructor": "Cooper",
+    "drivers": ["Jack Brabham", "Stirling Moss", "Bruce McLaren"]
+  },
+  {
+    "year": 1960,
+    "constructor": "Cooper",
+    "drivers": ["Jack Brabham", "Bruce McLaren"]
+  },
+  {
+    "year": 1961,
+    "constructor": "Ferrari",
+    "drivers": ["Phil Hill", "Wolfgang von Trips"]
+  },
+  {
+    "year": 1962,
+    "constructor": "BRM",
+    "drivers": ["Graham Hill"]
+  },
+  {
+    "year": 1963,
+    "constructor": "Lotus",
+    "drivers": ["Jim Clark"]
+  },
+  {
+    "year": 1964,
+    "constructor": "Ferrari",
+    "drivers": ["John Surtees", "Lorenzo Bandini"]
+  },
+  {
+    "year": 1965,
+    "constructor": "Lotus",
+    "drivers": ["Jim Clark"]
+  },
+  {
+    "year": 1966,
+    "constructor": "Brabham",
+    "drivers": ["Jack Brabham"]
+  },
+  {
+    "year": 1967,
+    "constructor": "Brabham",
+    "drivers": ["Denny Hulme", "Jack Brabham"]
+  },
+  {
+    "year": 1968,
+    "constructor": "Lotus",
+    "drivers": ["Graham Hill", "Jo Siffert", "Jim Clark", "Jackie Oliver"]
+  },
+  {
+    "year": 1969,
+    "constructor": "Matra",
+    "drivers": ["Jackie Stewart", "Jean-Pierre Beltoise"]
+  },
+  {
+    "year": 1970,
+    "constructor": "Lotus",
+    "drivers": [
+      "Jochen Rindt",
+      "Emerson Fittipaldi",
+      "Graham Hill",
+      "John Miles"
+    ]
+  },
+  {
+    "year": 1971,
+    "constructor": "Tyrrell",
+    "drivers": ["Jackie Stewart", "François Cevert"]
+  },
+  {
+    "year": 1972,
+    "constructor": "Lotus",
+    "drivers": ["Emerson Fittipaldi"]
+  },
+  {
+    "year": 1973,
+    "constructor": "Lotus",
+    "drivers": ["Emerson Fittipaldi", "Ronnie Peterson"]
+  },
+  {
+    "year": 1974,
+    "constructor": "McLaren",
+    "drivers": [
+      "Emerson Fittipaldi",
+      "Denny Hulme",
+      "Mike Hailwood",
+      "David Hobbs",
+      "Jochen Mass"
+    ]
+  },
+  {
+    "year": 1975,
+    "constructor": "Ferrari",
+    "drivers": ["Clay Regazzoni", "Niki Lauda"]
+  },
+  {
+    "year": 1976,
+    "constructor": "Ferrari",
+    "drivers": ["Niki Lauda", "Clay Regazzoni"]
+  },
+  {
+    "year": 1977,
+    "constructor": "Ferrari",
+    "drivers": ["Niki Lauda", "Carlos Reutemann"]
+  },
+  {
+    "year": 1978,
+    "constructor": "Lotus",
+    "drivers": ["Mario Andretti", "Ronnie Peterson"]
+  },
+  {
+    "year": 1979,
+    "constructor": "Ferrari",
+    "drivers": ["Jody Scheckter", "Gilles Villeneuve"]
+  },
+  {
+    "year": 1980,
+    "constructor": "Williams",
+    "drivers": ["Alan Jones", "Carlos Reutemann"]
+  },
+  {
+    "year": 1981,
+    "constructor": "Williams",
+    "drivers": ["Alan Jones", "Carlos Reutemann"]
+  },
+  {
+    "year": 1982,
+    "constructor": "Ferrari",
+    "drivers": [
+      "Gilles Villeneuve",
+      "Didier Pironi",
+      "Patrick Tambay",
+      "Mario Andretti"
+    ]
+  },
+  {
+    "year": 1983,
+    "constructor": "Ferrari",
+    "drivers": ["Patrick Tambay", "René Arnoux"]
+  },
+  {
+    "year": 1984,
+    "constructor": "McLaren",
+    "drivers": ["Alain Prost", "Niki Lauda"]
+  },
+  {
+    "year": 1985,
+    "constructor": "McLaren",
+    "drivers": ["Niki Lauda", "Alain Prost", "John Watson"]
+  },
+  {
+    "year": 1986,
+    "constructor": "Williams",
+    "drivers": ["Nigel Mansell", "Nelson Piquet"]
+  },
+  {
+    "year": 1987,
+    "constructor": "Williams",
+    "drivers": ["Nigel Mansell", "Nelson Piquet", "Riccardo Patrese"]
+  },
+  {
+    "year": 1988,
+    "constructor": "McLaren",
+    "drivers": ["Alain Prost", "Ayrton Senna"]
+  },
+  {
+    "year": 1989,
+    "constructor": "McLaren",
+    "drivers": ["Ayrton Senna", "Alain Prost"]
+  },
+  {
+    "year": 1990,
+    "constructor": "McLaren",
+    "drivers": ["Ayrton Senna", "Gerhard Berger"]
+  },
+  {
+    "year": 1991,
+    "constructor": "McLaren",
+    "drivers": ["Ayrton Senna", "Gerhard Berger"]
+  },
+  {
+    "year": 1992,
+    "constructor": "Williams",
+    "drivers": ["Nigel Mansell", "Riccardo Patrese"]
+  },
+  {
+    "year": 1993,
+    "constructor": "Williams",
+    "drivers": ["Damon Hill", "Alain Prost"]
+  },
+  {
+    "year": 1994,
+    "constructor": "Williams",
+    "drivers": [
+      "Damon Hill",
+      "Ayrton Senna",
+      "David Coulthard",
+      "Nigel Mansell"
+    ]
+  },
+  {
+    "year": 1995,
+    "constructor": "Benetton",
+    "drivers": ["Michael Schumacher", "Johnny Herbert"]
+  },
+  {
+    "year": 1996,
+    "constructor": "Williams",
+    "drivers": ["Damon Hill", "Jacques Villeneuve"]
+  },
+  {
+    "year": 1997,
+    "constructor": "Williams",
+    "drivers": ["Jacques Villeneuve", "Heinz-Harald Frentzen"]
+  },
+  {
+    "year": 1998,
+    "constructor": "McLaren",
+    "drivers": ["David Coulthard", "Mika Häkkinen"]
+  },
+  {
+    "year": 1999,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Eddie Irvine", "Mika Salo"]
+  },
+  {
+    "year": 2000,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Rubens Barrichello"]
+  },
+  {
+    "year": 2001,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Rubens Barrichello"]
+  },
+  {
+    "year": 2002,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Rubens Barrichello"]
+  },
+  {
+    "year": 2003,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Rubens Barrichello"]
+  },
+  {
+    "year": 2004,
+    "constructor": "Ferrari",
+    "drivers": ["Michael Schumacher", "Rubens Barrichello"]
+  },
+  {
+    "year": 2005,
+    "constructor": "Renault",
+    "drivers": ["Fernando Alonso", "Giancarlo Fisichella"]
+  },
+  {
+    "year": 2006,
+    "constructor": "Renault",
+    "drivers": ["Fernando Alonso", "Giancarlo Fisichella"]
+  },
+  {
+    "year": 2007,
+    "constructor": "Ferrari",
+    "drivers": ["Felipe Massa", "Kimi Räikkönen"]
+  },
+  {
+    "year": 2008,
+    "constructor": "Ferrari",
+    "drivers": ["Kimi Räikkönen", "Felipe Massa"]
+  },
+  {
+    "year": 2009,
+    "constructor": "Brawn",
+    "drivers": ["Jenson Button", "Rubens Barrichello"]
+  },
+  {
+    "year": 2010,
+    "constructor": "Red Bull",
+    "drivers": ["Sebastian Vettel", "Mark Webber"]
+  },
+  {
+    "year": 2011,
+    "constructor": "Red Bull",
+    "drivers": ["Sebastian Vettel", "Mark Webber"]
+  },
+  {
+    "year": 2012,
+    "constructor": "Red Bull",
+    "drivers": ["Sebastian Vettel", "Mark Webber"]
+  },
+  {
+    "year": 2013,
+    "constructor": "Red Bull",
+    "drivers": ["Sebastian Vettel", "Mark Webber"]
+  },
+  {
+    "year": 2014,
+    "constructor": "Mercedes",
+    "drivers": ["Nico Rosberg", "Lewis Hamilton"]
+  },
+  {
+    "year": 2015,
+    "constructor": "Mercedes",
+    "drivers": ["Nico Rosberg", "Lewis Hamilton"]
+  },
+  {
+    "year": 2016,
+    "constructor": "Mercedes",
+    "drivers": ["Nico Rosberg", "Lewis Hamilton"]
+  },
+  {
+    "year": 2017,
+    "constructor": "Mercedes",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas"]
+  },
+  {
+    "year": 2018,
+    "constructor": "Mercedes",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas"]
+  },
+  {
+    "year": 2019,
+    "constructor": "Mercedes",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas"]
+  },
+  {
+    "year": 2020,
+    "constructor": "Mercedes",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas", "George Russell"]
+  },
+  {
+    "year": 2021,
+    "constructor": "Mercedes",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas"]
+  },
+  {
+    "year": 2022,
+    "constructor": "Red Bull",
+    "drivers": ["Max Verstappen", "Sergio Pérez"]
+  },
+  {
+    "year": 2023,
+    "constructor": "Red Bull",
+    "drivers": ["Max Verstappen", "Sergio Pérez"]
+  },
+  {
+    "year": 2024,
+    "constructor": "McLaren",
+    "drivers": ["Lando Norris", "Oscar Piastri"]
+  },
+  {
+    "year": 2025,
+    "constructor": "McLaren",
+    "drivers": ["Lando Norris", "Oscar Piastri"]
+  }
+]
