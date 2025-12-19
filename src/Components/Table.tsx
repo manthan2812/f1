@@ -4,7 +4,7 @@ interface TableProps {
 
 const displayValue = (value: any): string => {
   if (Array.isArray(value)) {
-    return value.length > 0 ? value.join(", ") : "";
+    return value.length > 0 ? `${value.join(", ")} [${value.length}]` : "";
   }
   if (value === null || value === undefined) {
     return "";
@@ -17,13 +17,13 @@ const Table: React.FC<TableProps> = ({ data = [] }) => {
   headers = Object.keys(data[0]).map((v) => v.toUpperCase());
 
   return (
-    <table className="w-full border-collapse border text-xs md:text-sm lg:text-base font-normal">
+    <table className="w-full text-xs md:text-sm lg:text-base font-normal">
       <thead>
-        <tr>
+        <tr className="border-b border-black/30 dark:border-white/30 backdrop-blur-sm rounded-3xl">
           {headers.map((header: string, index: number) => (
             <th
               key={index}
-              className="border text-center p-0.5 sm:p-1 bg-fuchsia-200 text-fuchsia-950 dark:bg-fuchsia-950 dark:text-fuchsia-200"
+              className="px-6 py-3 text-center text-md font-bold text-gray-800 dark:text-gray-300"
             >
               {header}
             </th>
@@ -34,10 +34,17 @@ const Table: React.FC<TableProps> = ({ data = [] }) => {
         {data.map((item: object, index: number) => (
           <tr
             key={index}
-            className="odd:bg-fuchsia-50 even:bg-fuchsia-100 text-fuchsia-900 dark:odd:bg-fuchsia-800 dark:even:bg-fuchsia-900 dark:text-fuchsia-100"
+            className={`hover:bg-black/5 dark:hover:bg-white/10 transition-all duration-300 ${
+              index !== data.length - 1
+                ? "border-b border-black/10 dark:border-white/10"
+                : "rounded-3xl"
+            }`}
           >
             {Object.values(item).map((value: any, idx: number) => (
-              <td key={idx} className="border text-center p-0.5 sm:p-1">
+              <td
+                key={idx}
+                className="px-6 py-3 text-sm text-center text-gray-900 dark:text-gray-200"
+              >
                 {displayValue(value)}
               </td>
             ))}

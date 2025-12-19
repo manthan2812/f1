@@ -74,8 +74,8 @@ function App() {
         <div className="max-w-6xl mx-auto">
           {/* Content */}
           <div
-            className="bg-linear-to-r from-purple-100 to-pink-100 dark:from-purple-950 dark:to-pink-950 rounded-3xl shadow-xl p-8 
-              border border-gray-200 dark:border-gray-950"
+            className="bg-linear-to-r from-purple-100 to-pink-100 dark:from-purple-950 dark:to-pink-950 rounded-3xl shadow-xl  
+              border border-gray-200 dark:border-gray-950 p-2"
           >
             {activeTab === TABS[0] && (
               <Table
