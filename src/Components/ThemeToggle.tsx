@@ -1,7 +1,7 @@
 import "@theme-toggles/react/css/Classic.css";
 import { Classic } from "@theme-toggles/react";
 
-const ThemeSwitch = ({
+const ThemeToggle = ({
   theme,
   onChange,
 }: {
@@ -21,4 +21,4 @@ const ThemeSwitch = ({
   );
 };
 
-export default ThemeSwitch;
+export default ThemeToggle;
